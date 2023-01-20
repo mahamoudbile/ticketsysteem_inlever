@@ -1,0 +1,16 @@
+h1{
+    padding-bottom: 3%;
+}
+h4{
+    color: gray;
+}
+
+.card-body{
+    padding-bottom: 10px;
+}
+
+.container1{
+    display: inline-grid;
+    padding-top: 2%;
+    padding-left: 2%;
+}
